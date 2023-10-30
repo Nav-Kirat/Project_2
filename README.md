@@ -9,8 +9,6 @@ Of course! Here's a template for a README file for a project that uses SQL and P
 
 This project focuses on analyzing Chicago data to derive insights and visualize trends. Through SQL queries and Power BI dashboards, we've highlighted key aspects of the data that are crucial for crime rate of city.
 
-![Power BI Dashboard](https://github.com/Nav-Kirat/Project_2/blob/main/Dashboard.pdf)
-
 ## Datasets
 
 The data used in this project comes from various data sources. Following are the data sources:
@@ -29,3 +27,4 @@ The SQL scripts focus on Finding specific information from the Table.. Key SQL o
 
 The Power BI dashboard visualize the data in various formats to find the trends between type of crimes in different years. It also derives the results such as how many suspects are arrested or not.
 
+[Power BI Dashboard](https://github.com/Nav-Kirat/Project_2/blob/main/Dashboard.pdf)
