@@ -23,6 +23,7 @@ The SQL scripts focus on Finding specific information from the Table.. Key SQL o
 
 
 - `Script.sql`: This file contains SQL queries for 3 very specific questions.
+- `Queries outputs.pdf` : This file conatins the outputs for the Queries.
 
 ## Power BI Visualizations
 
