@@ -21,6 +21,7 @@ The data used in this project comes from various data sources. Following are the
 
 The SQL scripts focus on Finding specific information from the Table.. Key SQL operations used include joins and aggregations.
 
+
 - `Script.sql`: This file contains SQL queries for 3 very specific questions.
 
 ## Power BI Visualizations
