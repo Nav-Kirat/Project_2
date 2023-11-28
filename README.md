@@ -1,7 +1,6 @@
 # Project_2
 Analyzing crime data of Chicago using Power BI and SQL
 
-Of course! Here's a template for a README file for a project that uses SQL and Power BI:
 
 # SQL and Power BI Data Analysis Project
 
